@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc
+END
+CxxTest_3_Generate.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/CxxTest_3_Generate.dsp
+END
+CxxTest_2_Build.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/CxxTest_2_Build.dsp
+END
+CxxTest_1_Run.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/CxxTest_1_Run.dsp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/ReadMe.txt
+END
+CxxTest_Workspace.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/CxxTest_Workspace.dsw
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/Makefile
+END
+FixFiles.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/msvc/FixFiles.bat
+END

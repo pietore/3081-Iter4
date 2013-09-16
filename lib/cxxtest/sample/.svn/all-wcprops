@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample
+END
+SimpleTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/SimpleTest.h
+END
+DeltaTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/DeltaTest.h
+END
+only.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/only.tpl
+END
+file_printer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/file_printer.tpl
+END
+EnumTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/EnumTraits.h
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/Makefile.msvc
+END
+ExceptionTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/ExceptionTest.h
+END
+Construct
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/Construct
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/Makefile.PL
+END
+aborter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/aborter.tpl
+END
+TraitsTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/TraitsTest.h
+END
+CreatedTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/CreatedTest.h
+END
+Makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/Makefile.unix
+END
+yes_no_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/yes_no_runner.cpp
+END
+Makefile.bcc32
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/Makefile.bcc32
+END
+MessageTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/MessageTest.h
+END
+FixtureTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/FixtureTest.h
+END

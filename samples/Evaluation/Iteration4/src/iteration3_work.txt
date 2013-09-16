@@ -1,0 +1,5 @@
+Billy
+We initially designed the class structure together and figured out what was necessary. It then took me awhile to figure out how to actually add and unparse the nodes and I made some basic classes and tests. Then I coded most of the expressions and other classes and implemented them along with the unparse methods. I then left the rest of the classes for Eric.
+
+Eric
+I did very little coding because it was very complicated.  I tried to implement (let in end), (typebinding/list), (optionalexprlist), (expr/list), and an extended type and they passed some early test cases but were not actually doing any thing.  I made some node classes and some of which were not implemented later on such as typebindinglist.

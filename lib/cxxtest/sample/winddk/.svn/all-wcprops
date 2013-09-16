@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/winddk
+END
+SOURCES
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/winddk/SOURCES
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/winddk/Makefile.inc
+END
+RunTests.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/winddk/RunTests.tpl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/winddk/Makefile
+END

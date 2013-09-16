@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock
+END
+MockStdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/MockStdlib.h
+END
+Dice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/Dice.cpp
+END
+real_stdlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/real_stdlib.cpp
+END
+roll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/roll.cpp
+END
+Dice.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/Dice.h
+END
+TestDice.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/TestDice.h
+END
+mock_stdlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/mock_stdlib.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/S12C3081-user105/!svn/ver/86/project/tags/Iteration4/lib/cxxtest/sample/mock/Makefile
+END

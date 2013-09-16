@@ -1,0 +1,14 @@
+square ::  n::Integer -> Integer
+  = n * n
+
+/* map :: f::(a -> b) -> vs::[a] -> [a]
+   = if   vs == [ ] 
+     then [ ]
+     else f((head(vs)) : map(f, tail(vs))
+ */
+
+main :: args:[String] -> Integer
+  = let numbers :: [Integer] = [1 .. 100] ;
+        squaredNumberss :: [Integer] = map square numbers ;
+    in  print<[Integer]> ( squaredNumbers )
+    end

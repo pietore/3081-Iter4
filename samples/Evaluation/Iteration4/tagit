@@ -1,0 +1,13 @@
+#!/bin/bash
+
+svn delete \
+	https://www-users.cselabs.umn.edu/svn/S12C3081-user105/project/tags/Iteration4/ \
+	-m "Deleting old Iteration4 files"
+
+#copy current trunk to tags
+svn cp \
+	https://www-users.cselabs.umn.edu/svn/S12C3081-user105/project/trunk \
+	https://www-users.cselabs.umn.edu/svn/S12C3081-user105/project/tags/Iteration4/ \
+	-m "Tagging Iteration 4"
+
+svn update

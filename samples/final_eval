@@ -1,0 +1,57 @@
+#!/bin/bash
+
+if [[ "$1" == "" ]]; then
+    echo "Error: You must identify your repository."
+    echo "For example, try "
+    echo "   ./final_eval user44"
+    echo "if you are user44."
+    exit 
+fi
+
+rm -Rf Evaluation
+mkdir Evaluation
+cd Evaluation
+
+echo ""
+echo "+++  svn export https://www-users.cselabs.umn.edu/svn/S12C3081-${1}/project/tags/Iteration4  +++"
+echo "------------------------------------------------------------"
+echo ""
+
+svn export https://www-users.cselabs.umn.edu/svn/S12C3081-${1}/project/tags/Iteration4
+rc="$?"
+
+if [[ "${rc}" != "0" ]]; then
+    echo "SVN checkout failed with return code ${rc}"
+    exit
+fi
+
+cd Iteration4/src
+
+allTests="i1_assessment_tests i2_assessment_tests \
+          i3_assessment_tests i4_assessment_tests"
+
+for test in ${allTests}
+do
+    echo ""
+    echo "+++   make ${test}   +++"
+    echo "------------------------------------------------------------"
+    echo ""
+    make ${test}
+    rc="$?"
+    if [[ "${rc}" != "0" ]]; then
+	echo "***** make ${test} failed with return code ${rc}"
+	exit
+    fi
+
+    echo ""
+    echo "+++   running ${test}   +++"
+    echo "------------------------------------------------------------"
+    echo ""
+    ./${test}
+    rc="$?"
+    if [[ "${rc}" != "0" ]]; then
+	echo "***** ${test} did not pass all of the tests"
+	echo "***** it finished with return code ${rc}"
+	exit
+    fi
+done

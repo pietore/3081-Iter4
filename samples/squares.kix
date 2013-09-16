@@ -1,0 +1,18 @@
+square :: ( n::Integer ) -> Integer
+  = n * n ;
+
+/* The map function is built in to our language and "map" is
+   a keyword.  But it could be implemented as follows if we had
+   chosen to do so.
+
+   map :: ( f::(a -> b), vs::[a] ) -> [a]
+     = if   vs == [ ] 
+       then [ ]
+       else f ( ( head ( vs ) ) : map ( f, tail ( vs ) ) ) ;
+ */
+
+main :: ( args::[String] ) -> Integer
+  = let numbers :: [Integer] = [1 .. 100] ;
+        squaredNumbers :: [Integer] = map ( square, numbers ) ;
+    in  print ( squaredNumbers )
+    end ;

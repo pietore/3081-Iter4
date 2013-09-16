@@ -1,0 +1,20 @@
+Billy:
+We started out by writing a few basic tests after figuring out what each 
+function was supposed to do. I then wrote the consumeWhiteSpaceAndComments
+function and made tests to exhaust all possibilities for it. I then wrote a few
+regular expressions so I could test the scan function. After much tinkering
+with where to put the regular expressions and make them so they would only be
+made once, I decided upon the header file. The scanner then needed only to call
+the regex constructor and it would have a list of all the regexs in the same
+object that scan was in. I made a few tests and made sure scan was working.
+Eric then made a large portion of the regular expressions along with tests for
+them. I then went back in and fixed a couple that weren't working. It then
+passed all of the test cases.
+
+
+Eric:
+Since it was unknown how much time each of the process will take, we decided to just work on the same code and take turns for this first iteration. In so far, Billy has completed the core of the program due to the fact that we were working at the same thing at once and decided it was best if he just finished it. Then, I tried to understand what he programmed while I blindly tested to find the regular expressions and made tests concerning the regular expressions.  Additionally, I wrote tests for all the files in the folder sample. Billy wrote the translator and makeFile, I decided to start with the eve of destruction.
+
+We decided what style we liked and, also, how many spaces a tab took.
+
+
